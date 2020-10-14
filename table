@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <table>
-        <ul>
+       <ul>
             13.10
             <li>https://github.com/atherdon/newsletters/pull/20</li>
             <li> 30 minets</li>
@@ -21,6 +12,3 @@
             <li>https://github.com/atherdon/newsletters/pull/28 10 minets</li>
 
         </ul>
-    </table>
-</body>
-</html>
